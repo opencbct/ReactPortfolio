@@ -1,0 +1,12 @@
+/* Inactive tab */
+.myClass > a {
+    background-color: white;
+    color: black;
+  }
+  /* Active tab */
+  .myClass > a,
+  .myClass > a:hover,
+  .myClass > a:focus {
+    background-color: #343a40;
+    color: white;
+  }
