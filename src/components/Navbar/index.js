@@ -31,15 +31,15 @@ function Navigation() {
                 ABOUT
             </Link>
             <Link
-              to="/focus"
-              className={window.location.pathname === "/focus" ? "nav-link active" : "nav-link"}
+              to="/work"
+              className={window.location.pathname === "/work" ? "nav-link active" : "nav-link"}
               onClick={() => setExpanded(false)}
             >
               FOCUS
             </Link>
             <Link
-              to="/portfolio"
-              className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+              to="/contact"
+              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
               onClick={() => setExpanded(false)}
             >
               PORTFOLIO

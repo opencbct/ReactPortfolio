@@ -2,82 +2,29 @@
     "projects":[
         {
             "_id": 1,
-            "cardTitle": "Ajax Weather App",
-            "cardText": "This weather app focuses on using API's to retrieve weather data for cities across the United States",
-            "src": "./images/weatherApp.png",
+            "cardTitle": "Flight-WeatherApp",
+            "cardText": "Takes down where are you going & your travel dates. Based on the API calls, it will show you flights to a city on that day and the weather where you are traveling Skyscanner flight search API and weather API You can search flights to view prices and see the weather in your potential destination",
+            "src": "./images/weatherTech.png",
             "alt": "weather application",
             "github": "https://github.com/opecbct",
-            "project": "",
             "demonstration":""
         },
         {
             "_id": 2,
-            "cardTitle": "JavaScript Password Generator",
+            "cardTitle": "Password Generator",
             "cardText": "This application generates a random password based on user-selected criteria.",
             "src": "./images/passwordGenerator.png",
             "alt": "password generator application",
             "github": "https://github.com/opecbct",
-            "project": "",
-            "demonstration":""
-        },
-        {
-            "_id": 3,
-            "cardTitle": ">Moment.js Daily Scheduler",
-            "cardText": "This app features a dynamically updated HTML and CSS powered by JQuery and uses Moment.js library to work with date and time within the application.",
-            "src": "./images/momentDayScheduler.PNG",
-            "alt": "Moment Day Scheduler application",
-            "github": "https://github.com/opencbct",
-            "project": "",
-            "demonstration":""
-        },
-        {
-            "_id": 4,
-            "cardTitle": "API Code Quiz Challenge",
-            "cardText": "This app is a lightweight timed coding quiz with multiple-choice questions. By using DOM manipulation, JavaScript, Bootstrap, and the web browsers API local storage this app can challenge users to their knowledge of JavaScript.",
-            "src": "./images/apiQuiz.PNG",
-            "alt": "Code Quiz application",
-            "github": "https://github.com/opencbct",
-            "project": "",
-            "demonstration":""
-        },
-        {
-            "_id": 5,
-            "cardTitle": "Horiseon - The Search Engine Optimization Project",
-            "cardText": "Horiseon is an artificial marketing agency that wants their code base to follow accessibility standards so that their own site is optimized for search engines.",
-            "src": "./images/horiseon.png",
-            "alt": "Horiseon project",
-            "github": "https://github.com/opencbct",
-            "project": "",
-            "demonstration":""
-        },
-        {
-            "_id": 6,
-            "cardTitle": "MVC Handlebar Burger Joint",
-            "cardText": "This app is a burger logger that uses MySQL, Node, Express, Handlebars and a homemade ORM.",
-            "src": "./images/eat-a-burger.png",
-            "alt": "MVC Handlebar Burger application",
-            "github": "https://github.com/opencbct",
-            "project": "https://r.herokuapp.com/",
-            "demonstration":""
-        },
-        {
-            "_id": 7,
-            "cardTitle": "HTML-Template-Engine",
-            "cardText": "Built a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.",
-            "src": "./images/html-template-engine.png",
-            "alt": "HTML Template Engine",
-            "github": "https://github.com/opencbct",
-            "project": "",
             "demonstration":""
         },
         {
             "_id": 8,
-            "cardTitle": "Employee Tracker CMS",
+            "cardTitle": "Employee management system",
             "cardText": "This project involved architecting and building a solution for managing a company's employees using node, inquirer, and MySQL",
             "src": "./images/employeeTrackerCMS.PNG",
             "alt": "employee tracker cms app",
             "github": "https://github.com/opencbct",
-            "project": "",
             "demonstration": ""
         },
         {
@@ -87,7 +34,6 @@
             "src": "./images/noteTakerExpress.png",
             "alt": "note taker Express app",
             "github": "https://github.com/opencbct",
-            "project": "",
             "demonstration":""
         },
         {
@@ -97,29 +43,8 @@
             "src": "./images/nodeReadmeGenerator.PNG",
             "alt": "Node ReadMe Generator",
             "github": "https://github.com/opencbct",
-            "project": "",
             "demonstration":""
            
         },
-        {
-            "_id": 11,
-            "cardTitle": "Gif Your Mood",
-            "cardText": "This is a purely fun application that tries to find a gif that matches the user's current mood.",
-            "src": "./images/groupProject.jpg",
-            "alt": "Gif Your Mood application",
-            "github": "https://github.com/opencbct",
-            "project": "",
-            "demonstration":""
-        },
-        {
-            "_id": 12,
-            "cardTitle": "Bear Share",
-            "cardText": "A plushie buy and sell listing platform for build-a-bear enthusiasts.",
-            "src": "./images/bearshare.png",
-            "alt": "Bear Share application",
-            "github": "https://github.com/opencbct",
-            "project": "",
-            "demonstration":""
-        }
     ]
 }

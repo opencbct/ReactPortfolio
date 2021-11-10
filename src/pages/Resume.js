@@ -14,7 +14,7 @@ function Resume(){
             <section className="col-lg-4 mx-auto text-center mb-5">
                 <img src="./images/tree1.jpg" alt="tree" style={styles.imageChange}/>
                 <h2 className="mt-5">Dig a little deeper.</h2>
-                <a href="./data/KennethKopelson_Resume.pdf" alt="PDF of Resume" target="_blank" rel="noreferrer" className="btn btn-dark">Resume</a>
+                <a href="./data/benjaminKim_Resume.pdf" alt="PDF of Resume" target="_blank" rel="noreferrer" className="btn btn-dark">Resume</a>
             </section>
         </article>
     );

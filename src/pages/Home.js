@@ -1,7 +1,7 @@
 import React from "react";
 const styles = {
     backgroundImage: {
-        backgroundImage: `url("./images/resumebackground.JPG")`,
+        backgroundImage: `url("./images/resumebackground.jpg")`,
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "cover"
@@ -19,7 +19,7 @@ function Home(){
                 <section className="col-lg-6 p-5 mx-auto border border-dark" style={styles.backgroundOpacity}>
                     <div className="row">
                         <div className="col d-flex justify-content-center">
-                            <h1>Kenneth Kopelson</h1>    
+                            <h1>Benjamin Kim</h1>    
                         </div>
                     </div>
                     <div className="row">

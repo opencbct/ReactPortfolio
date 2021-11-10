@@ -13,13 +13,14 @@ function About(){
         <article className="container-fluid">
             <section className="col-lg-6 mx-auto mb-5 pb-5">
                 <div className="col-lg-6">
-                    <img src="./images/me.png" alt="Ken Kopelson" style={styles.imageChange}/> 
+                    <img src="./images/resumebackground.jpg"/> 
                 </div>
                 <div className="col-lg-6">
-                    <h2 className="mt-5" >About Me:</h2>
+                    <h2 className="mt-5" >About:</h2>
                     <p>
-                        I love adventures. I like hiking. I love to game. I enjoy spending time with friends and family. I have a beautiful wife and daughter.
-                        If you can't find me with those two I'm probably on my computer. Learning how to code has become my full time hobby.
+                    I met dentists every day. It's all been like that for a little over the past decade. There's a lot of business between dentists and patients. 
+          I try to find my business in it. The doctor needs an implant and an X-ray. And find a way for them to think about safe surgery. They don't move unless I provoke them. I don't worry about patients. 
+          But the patient will be under my protection. This is why I see dentists every day.
                     </p>
                 </div>
             </section> 
