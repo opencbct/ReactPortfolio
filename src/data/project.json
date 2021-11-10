@@ -7,7 +7,6 @@
             "src": "./images/weatherTech.png",
             "alt": "weather application",
             "github": "https://github.com/opecbct",
-            "demonstration":""
         },
         {
             "_id": 2,
@@ -16,7 +15,6 @@
             "src": "./images/passwordGenerator.png",
             "alt": "password generator application",
             "github": "https://github.com/opecbct",
-            "demonstration":""
         },
         {
             "_id": 8,
@@ -25,7 +23,6 @@
             "src": "./images/employeeTrackerCMS.PNG",
             "alt": "employee tracker cms app",
             "github": "https://github.com/opencbct",
-            "demonstration": ""
         },
         {
             "_id": 9,
@@ -34,7 +31,6 @@
             "src": "./images/noteTakerExpress.png",
             "alt": "note taker Express app",
             "github": "https://github.com/opencbct",
-            "demonstration":""
         },
         {
             "_id": 10,
@@ -43,7 +39,6 @@
             "src": "./images/nodeReadmeGenerator.PNG",
             "alt": "Node ReadMe Generator",
             "github": "https://github.com/opencbct",
-            "demonstration":""
            
         },
     ]

@@ -10,39 +10,32 @@ function Navigation() {
     <Navbar collapseOnSelect expand="lg" bg="light" variant="light" expanded={expanded} >
       <Navbar.Brand>
         <Link className="navbar-brand" to="/">
-          <img src="./images/logo.jpg" alt="logo" style={{width:"50px", height:"50px"}}/>
+          <./images/zirconia-drill.jpg/>
         </Link>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" onClick={() => setExpanded(expanded ? false : "expanded")} />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
             <Link
-              to="/"
-              className={window.location.pathname === "/" || window.location.pathname === "/home" ? "nav-link active" : "nav-link"}
+              to="/about"
+              className={window.location.pathname === "/" || window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
               onClick={() => setExpanded(false)}
             >
-              HOME
-            </Link>
-            <Link
-              to="/about"
-              className={window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
-              onClick={() => setExpanded(false)}
-              >
-                ABOUT
+              ABOUT
             </Link>
             <Link
               to="/work"
               className={window.location.pathname === "/work" ? "nav-link active" : "nav-link"}
               onClick={() => setExpanded(false)}
-            >
-              FOCUS
+              >
+                WORK
             </Link>
             <Link
-              to="/contact"
-              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+              to="/undergradeExperience"
+              className={window.location.pathname === "/undergradeExperience" ? "nav-link active" : "nav-link"}
               onClick={() => setExpanded(false)}
             >
-              PORTFOLIO
+              UNDERGRADE EXPERIENCE
             </Link>
             <Link
               to="/resume"

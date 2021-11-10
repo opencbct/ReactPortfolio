@@ -16,10 +16,8 @@ function Focus(){
                     <h2>My goal is to build a perfect mobile app that captures the beginning and end of dental implant surgery.</h2>
                     <p>I have the skills needed to be your full stack front end developer.</p>
                     <ul>
-                        <li>Build incredible front-end applications</li>
-                        <li>Smooth & steady front-end workflow</li>
-                        <li>Work well with teams & familiar with Git</li>
-                        <li>Update data asynchronously with AJAX and backend API's</li>
+                        <li>Build professtional dental lab applications</li>
+                        <li>Specialized laboratory front-end workflow</li>
                     </ul>
                     </div>
                     <div className="col-lg-6">

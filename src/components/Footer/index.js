@@ -16,7 +16,7 @@ function Footer() {
             </a>
             {/* <!-- link to email --> */}
             <a href="mailto:opencbct@gmail.com" target="_blank" rel="noreferrer" >
-                <img src="./images/email.jpg" width="30" height="30" className="d-inline-block align-top" alt="" loading="lazy" />
+                <img src="./images/footer-sign.jpg"/>
             </a>
     </footer>
   );
