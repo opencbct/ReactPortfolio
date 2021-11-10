@@ -1,7 +1,7 @@
 {
     "projects":[
         {
-            "_id": 1,
+            "_id": 0,
             "cardTitle": "Flight-WeatherApp",
             "cardText": "Takes down where are you going & your travel dates. Based on the API calls, it will show you flights to a city on that day and the weather where you are traveling Skyscanner flight search API and weather API You can search flights to view prices and see the weather in your potential destination",
             "src": "./images/weatherTech.png",
@@ -9,7 +9,7 @@
             "github": "https://github.com/opecbct",
         },
         {
-            "_id": 2,
+            "_id": 1,
             "cardTitle": "Password Generator",
             "cardText": "This application generates a random password based on user-selected criteria.",
             "src": "./images/passwordGenerator.png",
@@ -17,7 +17,7 @@
             "github": "https://github.com/opecbct",
         },
         {
-            "_id": 8,
+            "_id": 2,
             "cardTitle": "Employee management system",
             "cardText": "This project involved architecting and building a solution for managing a company's employees using node, inquirer, and MySQL",
             "src": "./images/employeeTrackerCMS.PNG",
@@ -25,7 +25,7 @@
             "github": "https://github.com/opencbct",
         },
         {
-            "_id": 9,
+            "_id": 3,
             "cardTitle": "Note Taker Express",
             "cardText": "This application uses an Express backend to write, save, and delete notes.",
             "src": "./images/noteTakerExpress.png",
@@ -33,7 +33,7 @@
             "github": "https://github.com/opencbct",
         },
         {
-            "_id": 10,
+            "_id": 4,
             "cardTitle": "Node README Generator",
             "cardText": "This is a terminal based application to produce professional looking README md files.",
             "src": "./images/nodeReadmeGenerator.PNG",

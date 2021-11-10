@@ -6,7 +6,7 @@
   /* Active tab */
   .myClass > a,
   .myClass > a:hover,
-  .myClass > a:focus {
+  .myClass > a:work {
     background-color: #343a40;
     color: white;
   }

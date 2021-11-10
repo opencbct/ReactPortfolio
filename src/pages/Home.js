@@ -24,7 +24,7 @@ function Home(){
                     </div>
                     <div className="row">
                         <div className="col d-flex justify-content-center">
-                            <p>A Full Stack Software Developer.</p>
+                            <p>Full Stack Software a Developer Specialzed in Dental Laboratory .</p>
                         </div>      
                     </div>
                     <div className="row">
@@ -34,7 +34,7 @@ function Home(){
                     </div>
                     <div className="row">
                         <div className="col d-flex justify-content-center">
-                            <p>Phone: 222-222-2222</p>
+                            <p>Phone: 222-600-2727</p>
                         </div>
                     </div>
                 </section> 
