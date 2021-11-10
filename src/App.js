@@ -6,7 +6,6 @@ import UndergradeExperience from "./page/undergradeExperience";
 import Resume from "./pages/Resume";
 import Navigation from "./components/Navbar";
 import Footer from "./components/Footer";
-import Wrapper from "./components/Wrapper";
 
 function App() {
   return (

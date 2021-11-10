@@ -17,7 +17,7 @@ function Focus(){
                     <p>I have the skills needed to be your full stack front end developer.</p>
                     <ul>
                         <li>Build professtional dental lab applications</li>
-                        <li>a full stack software developer workflow Specialized in laboratory</li>
+                        <li>A full stack software developer workflow Specialized in laboratory</li>
                     </ul>
                     </div>
                     <div className="col-lg-6">
